@@ -1,6 +1,8 @@
 
 [![Test-Build](https://github.com/Mitesh411/APIAutomationPipeline/actions/workflows/mayhem-for-api.yml/badge.svg?branch=main)](https://github.com/Mitesh411/APIAutomationPipeline/actions/workflows/mayhem-for-api.yml)
 
+<img src ="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo-700x259.png">
+
 # APIAutomationPipeline
 API Automation in Github Action Pipeline Demo
 YAML File Added 
