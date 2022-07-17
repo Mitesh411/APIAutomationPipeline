@@ -1,3 +1,6 @@
+
+[![Test-Build](https://github.com/Mitesh411/APIAutomationPipeline/actions/workflows/mayhem-for-api.yml/badge.svg?branch=main)](https://github.com/Mitesh411/APIAutomationPipeline/actions/workflows/mayhem-for-api.yml)
+
 # APIAutomationPipeline
 API Automation in Github Action Pipeline Demo
 YAML File Added 
